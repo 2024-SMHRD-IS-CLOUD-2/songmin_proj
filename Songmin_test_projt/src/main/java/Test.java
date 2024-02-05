@@ -17,6 +17,7 @@ public class Test extends HttpServlet {
 		
 		System.out.println("테스트에 어서오고");
 		System.out.println("안아줘요");
+		System.out.println("비오는거 ㄹㅇ 개빡치네");
 	}
 
 }
