@@ -16,6 +16,7 @@ public class Test extends HttpServlet {
 	protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		
 		System.out.println("테스트에 어서오고");
+		System.out.println("안아줘요");
 	}
 
 }
