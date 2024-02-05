@@ -1,5 +1,5 @@
 안녕하세여ㅛ!
-:+1: This PR looks great - it's ready to merge! :shipit:
+octocat:smiley: ㅎㅇ 난 하늘쓰 28살 :shipit:
 # 📎 꽃 보러 갈래?(팀명: 언덕 위 하얀집)
 ![image](https://user-images.githubusercontent.com/25995055/178401309-2a2ffc86-ef45-439b-bfd8-6978312100bc.png)
 
